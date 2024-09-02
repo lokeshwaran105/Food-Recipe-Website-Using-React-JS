@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Food-Recipe-Website-Using-React-JS/static/css/main.a6b3c5c2.css",
-    "main.js": "/Food-Recipe-Website-Using-React-JS/static/js/main.294f70ac.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Food-Recipe-Website-Using-React-JS/static/js/787.28cb0dcd.chunk.js",
-    "static/media/about-pic-2.jpg": "/Food-Recipe-Website-Using-React-JS/static/media/about-pic-2.dc01fc8897f67dc64b91.jpg",
-    "static/media/hero-banner.jpg": "/Food-Recipe-Website-Using-React-JS/static/media/hero-banner.463372a6388c3f245a3e.jpg",
-    "index.html": "/Food-Recipe-Website-Using-React-JS/index.html",
-    "main.a6b3c5c2.css.map": "/Food-Recipe-Website-Using-React-JS/static/css/main.a6b3c5c2.css.map",
-    "main.294f70ac.js.map": "/Food-Recipe-Website-Using-React-JS/static/js/main.294f70ac.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Food-Recipe-Website-Using-React-JS/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Food-Recipe-Website-Using-React-JS.git/static/css/main.3127ba96.css",
+    "main.js": "/Food-Recipe-Website-Using-React-JS.git/static/js/main.53c5b5c3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Food-Recipe-Website-Using-React-JS.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about-pic-2.jpg": "/Food-Recipe-Website-Using-React-JS.git/static/media/about-pic-2.dc01fc8897f67dc64b91.jpg",
+    "static/media/hero-banner.jpg": "/Food-Recipe-Website-Using-React-JS.git/static/media/hero-banner.463372a6388c3f245a3e.jpg",
+    "index.html": "/Food-Recipe-Website-Using-React-JS.git/index.html",
+    "main.3127ba96.css.map": "/Food-Recipe-Website-Using-React-JS.git/static/css/main.3127ba96.css.map",
+    "main.53c5b5c3.js.map": "/Food-Recipe-Website-Using-React-JS.git/static/js/main.53c5b5c3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Food-Recipe-Website-Using-React-JS.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b3c5c2.css",
-    "static/js/main.294f70ac.js"
+    "static/css/main.3127ba96.css",
+    "static/js/main.53c5b5c3.js"
   ]
 }
